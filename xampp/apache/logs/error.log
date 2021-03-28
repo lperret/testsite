@@ -1,0 +1,37 @@
+[Sat Mar 27 19:05:40.477704 2021] [ssl:warn] [pid 5884:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 27 19:05:40.549515 2021] [ssl:warn] [pid 5884:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 27 19:05:40.691134 2021] [mpm_winnt:notice] [pid 5884:tid 648] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/7.3.27 configured -- resuming normal operations
+[Sat Mar 27 19:05:40.691134 2021] [mpm_winnt:notice] [pid 5884:tid 648] AH00456: Apache Lounge VC15 Server built: Feb 18 2021 10:09:17
+[Sat Mar 27 19:05:40.691134 2021] [core:notice] [pid 5884:tid 648] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 27 19:05:40.697117 2021] [mpm_winnt:notice] [pid 5884:tid 648] AH00418: Parent: Created child process 12520
+[Sat Mar 27 19:05:41.389090 2021] [ssl:warn] [pid 12520:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 27 19:05:41.446935 2021] [ssl:warn] [pid 12520:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 27 19:05:41.487826 2021] [mpm_winnt:notice] [pid 12520:tid 648] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 27 19:25:19.580103 2021] [ssl:warn] [pid 1964:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 27 19:25:19.633963 2021] [ssl:warn] [pid 1964:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 27 19:25:19.661888 2021] [mpm_winnt:notice] [pid 1964:tid 660] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/7.3.27 configured -- resuming normal operations
+[Sat Mar 27 19:25:19.661888 2021] [mpm_winnt:notice] [pid 1964:tid 660] AH00456: Apache Lounge VC15 Server built: Feb 18 2021 10:09:17
+[Sat Mar 27 19:25:19.661888 2021] [core:notice] [pid 1964:tid 660] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 27 19:25:19.665879 2021] [mpm_winnt:notice] [pid 1964:tid 660] AH00418: Parent: Created child process 5676
+[Sat Mar 27 19:25:20.225763 2021] [ssl:warn] [pid 5676:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 27 19:25:20.269646 2021] [ssl:warn] [pid 5676:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 27 19:25:20.296575 2021] [mpm_winnt:notice] [pid 5676:tid 660] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 27 19:57:51.523141 2021] [ssl:warn] [pid 8792:tid 668] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 27 19:57:51.562004 2021] [core:warn] [pid 8792:tid 668] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 27 19:57:51.568022 2021] [ssl:warn] [pid 8792:tid 668] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 27 19:57:51.591923 2021] [mpm_winnt:notice] [pid 8792:tid 668] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/7.3.27 configured -- resuming normal operations
+[Sat Mar 27 19:57:51.591923 2021] [mpm_winnt:notice] [pid 8792:tid 668] AH00456: Apache Lounge VC15 Server built: Feb 18 2021 10:09:17
+[Sat Mar 27 19:57:51.591923 2021] [core:notice] [pid 8792:tid 668] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 27 19:57:51.594915 2021] [mpm_winnt:notice] [pid 8792:tid 668] AH00418: Parent: Created child process 20232
+[Sat Mar 27 19:57:52.154144 2021] [ssl:warn] [pid 20232:tid 640] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 27 19:57:52.193072 2021] [ssl:warn] [pid 20232:tid 640] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 27 19:57:52.218970 2021] [mpm_winnt:notice] [pid 20232:tid 640] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 27 20:08:09.736122 2021] [php7:notice] [pid 20232:tid 1892] [client ::1:64823] Erreur de la base de donn\xc3\xa9es WordPress Unknown column 'wp_' in 'field list' pour la requ\xc3\xaate SELECT wp_, referer: http://localhost/cns/wp-admin/setup-config.php?step=1&language=fr_FR
+[Sat Mar 27 20:08:09.758102 2021] [php7:notice] [pid 20232:tid 1892] [client ::1:64823] Erreur de la base de donn\xc3\xa9es WordPress Incorrect table name '' pour la requ\xc3\xaate INSERT INTO `` (`option_name`, `option_value`, `autoload`) VALUES ('nonce_key', '^QM405c#^4[92r]@Kb<~gt&#BLdiPjRlATy1O@izC7uv_jPz5l#@[OA+2,``E/Xl', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) faite par wp_print_scripts, wp_scripts, WP_Scripts->__construct, WP_Scripts->init, do_action_ref_array('wp_default_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_default_scripts, wp_create_nonce, wp_hash, wp_salt, update_site_option, update_network_option, add_network_option, add_option, referer: http://localhost/cns/wp-admin/setup-config.php?step=1&language=fr_FR
+[Sat Mar 27 20:08:09.758102 2021] [php7:notice] [pid 20232:tid 1892] [client ::1:64823] Erreur de la base de donn\xc3\xa9es WordPress Incorrect table name '' pour la requ\xc3\xaate INSERT INTO `` (`option_name`, `option_value`, `autoload`) VALUES ('nonce_salt', '5A_os ajyl_8GwC:<>z.Qa=/II)XGQW8FZwfRUu=.!d4a}tbSF4WENHnY4h_.p6y', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) faite par wp_print_scripts, wp_scripts, WP_Scripts->__construct, WP_Scripts->init, do_action_ref_array('wp_default_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_default_scripts, wp_create_nonce, wp_hash, wp_salt, update_site_option, update_network_option, add_network_option, add_option, referer: http://localhost/cns/wp-admin/setup-config.php?step=1&language=fr_FR
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
