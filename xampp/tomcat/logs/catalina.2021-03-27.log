@@ -1,0 +1,414 @@
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Nom version serveur :              Apache Tomcat/7.0.108
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Serveur compilé :                  Jan 28 2021 09:12:57 UTC
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Version du serveur :               7.0.108.0
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Nom de l'OS :                      Windows 10
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Version OS :                       10.0
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Architecture :                     x86
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Java Home :                        C:\Program Files (x86)\Java\jre1.8.0_221
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Version JVM :                      1.8.0_221-b11
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Fournisseur de la JVM :            Oracle Corporation
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: CATALINA_BASE :                    c:\xampp\tomcat
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: CATALINA_HOME :                    c:\xampp\tomcat
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Djava.util.logging.config.file=c:\xampp\tomcat\conf\logging.properties
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Djdk.tls.ephemeralDHKeySize=2048
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Dignore.endorsed.dirs=
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Dcatalina.base=c:\xampp\tomcat
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Dcatalina.home=c:\xampp\tomcat
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Djava.io.tmpdir=c:\xampp\tomcat\temp
+mars 27, 2021 7:28:06 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFOS: La librairie Apache Tomcat Native basée sur APR qui permet des performances optimales dans les environnements de production n'a pas été trouvée sur le java.library.path : [C:\Program Files (x86)\Java\jre1.8.0_221\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Brackets\command;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Gpg4win\..\GnuPG\bin;C:\Ruby30-x64\bin;C:\Users\Ludovic Perret\AppData\Local\Microsoft\WindowsApps;C:\Users\Ludovic Perret\AppData\Local\GitHubDesktop\bin;C:\texlive\2018\bin\win32;C:\Users\Ludovic Perret\AppData\Local\Microsoft\WindowsApps;C:\Users\Ludovic Perret\AppData\Local\atom\bin;.]
+mars 27, 2021 7:28:06 PM org.apache.coyote.AbstractProtocol init
+INFOS: Initialisation du gestionnaire de protocole ["http-bio-8080"]
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.Catalina load
+INFOS: Initialization processed in 761 ms
+mars 27, 2021 7:28:06 PM org.apache.catalina.core.StandardService startInternal
+INFOS: Démarrage du service [Catalina]
+mars 27, 2021 7:28:06 PM org.apache.catalina.core.StandardEngine startInternal
+INFOS: Starting Servlet Engine: Apache Tomcat/7.0.108
+mars 27, 2021 7:28:06 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\docs]
+mars 27, 2021 7:28:07 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+AVERTISSEMENT: La création de l'instance de SecureRandom pour le générateur d'id de session en utilisant [SHA1PRNG] a pris [372] millisecondes
+mars 27, 2021 7:28:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\docs] de l'application web s'est terminé en [838] ms
+mars 27, 2021 7:28:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\examples]
+mars 27, 2021 7:28:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\examples] de l'application web s'est terminé en [634] ms
+mars 27, 2021 7:28:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\host-manager]
+mars 27, 2021 7:28:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\host-manager] de l'application web s'est terminé en [93] ms
+mars 27, 2021 7:28:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\manager]
+mars 27, 2021 7:28:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\manager] de l'application web s'est terminé en [76] ms
+mars 27, 2021 7:28:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\ROOT]
+mars 27, 2021 7:28:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\ROOT] de l'application web s'est terminé en [51] ms
+mars 27, 2021 7:28:08 PM org.apache.coyote.AbstractProtocol start
+INFOS: Démarrage du gestionnaire de protocole ["http-bio-8080"]
+mars 27, 2021 7:28:08 PM org.apache.catalina.startup.Catalina start
+INFOS: Server startup in 1755 ms
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Nom version serveur :              Apache Tomcat/7.0.108
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Serveur compilé :                  Jan 28 2021 09:12:57 UTC
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Version du serveur :               7.0.108.0
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Nom de l'OS :                      Windows 10
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Version OS :                       10.0
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Architecture :                     x86
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Java Home :                        C:\Program Files (x86)\Java\jre1.8.0_221
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Version JVM :                      1.8.0_221-b11
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Fournisseur de la JVM :            Oracle Corporation
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: CATALINA_BASE :                    c:\xampp\tomcat
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: CATALINA_HOME :                    c:\xampp\tomcat
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Djava.util.logging.config.file=c:\xampp\tomcat\conf\logging.properties
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Djdk.tls.ephemeralDHKeySize=2048
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Dignore.endorsed.dirs=
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Dcatalina.base=c:\xampp\tomcat
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Dcatalina.home=c:\xampp\tomcat
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Djava.io.tmpdir=c:\xampp\tomcat\temp
+mars 27, 2021 7:28:16 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFOS: La librairie Apache Tomcat Native basée sur APR qui permet des performances optimales dans les environnements de production n'a pas été trouvée sur le java.library.path : [C:\Program Files (x86)\Java\jre1.8.0_221\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Brackets\command;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Gpg4win\..\GnuPG\bin;C:\Ruby30-x64\bin;C:\Users\Ludovic Perret\AppData\Local\Microsoft\WindowsApps;C:\Users\Ludovic Perret\AppData\Local\GitHubDesktop\bin;C:\texlive\2018\bin\win32;C:\Users\Ludovic Perret\AppData\Local\Microsoft\WindowsApps;C:\Users\Ludovic Perret\AppData\Local\atom\bin;.]
+mars 27, 2021 7:28:16 PM org.apache.coyote.AbstractProtocol init
+INFOS: Initialisation du gestionnaire de protocole ["http-bio-8080"]
+mars 27, 2021 7:28:16 PM org.apache.coyote.AbstractProtocol init
+GRAVE: Failed to initialize end point associated with ProtocolHandler ["http-bio-8080"]
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:414)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:750)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:467)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:1030)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:826)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:663)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:686)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:244)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:401)
+	... 17 more
+
+mars 27, 2021 7:28:16 PM org.apache.catalina.core.StandardService initInternal
+GRAVE: Failed to initialize connector [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: L'initialisation du gestionnaire de protocole a échoué
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:1032)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:826)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:663)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:686)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:244)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:414)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:750)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:467)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:1030)
+	... 13 more
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:401)
+	... 17 more
+
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.Catalina load
+INFOS: Initialization processed in 502 ms
+mars 27, 2021 7:28:16 PM org.apache.catalina.core.StandardService startInternal
+INFOS: Démarrage du service [Catalina]
+mars 27, 2021 7:28:16 PM org.apache.catalina.core.StandardEngine startInternal
+INFOS: Starting Servlet Engine: Apache Tomcat/7.0.108
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\docs]
+mars 27, 2021 7:28:16 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+AVERTISSEMENT: La création de l'instance de SecureRandom pour le générateur d'id de session en utilisant [SHA1PRNG] a pris [290] millisecondes
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\docs] de l'application web s'est terminé en [591] ms
+mars 27, 2021 7:28:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\examples]
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\examples] de l'application web s'est terminé en [284] ms
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\host-manager]
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\host-manager] de l'application web s'est terminé en [78] ms
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\manager]
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\manager] de l'application web s'est terminé en [57] ms
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\ROOT]
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\ROOT] de l'application web s'est terminé en [39] ms
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.Catalina start
+INFOS: Server startup in 1089 ms
+mars 27, 2021 7:28:17 PM org.apache.catalina.core.StandardServer await
+GRAVE: StandardServer.await: create[localhost:8005]: 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:428)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:800)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:746)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:284)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:415)
+
+mars 27, 2021 7:28:17 PM org.apache.coyote.AbstractProtocol pause
+INFOS: Le gestionnaire de protocole ["http-bio-8080"] est mis en pause
+mars 27, 2021 7:28:17 PM org.apache.catalina.core.StandardService stopInternal
+INFOS: Arrêt du service [Catalina]
+mars 27, 2021 7:28:17 PM org.apache.coyote.AbstractProtocol stop
+INFOS: Arrêt du gestionnaire de protocole ["http-bio-8080"]
+mars 27, 2021 7:28:17 PM org.apache.coyote.AbstractProtocol destroy
+INFOS: Destruction du gestionnaire de protocole ["http-bio-8080"]
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Nom version serveur :              Apache Tomcat/7.0.108
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Serveur compilé :                  Jan 28 2021 09:12:57 UTC
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Version du serveur :               7.0.108.0
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Nom de l'OS :                      Windows 10
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Version OS :                       10.0
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Architecture :                     x86
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Java Home :                        C:\Program Files (x86)\Java\jre1.8.0_221
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Version JVM :                      1.8.0_221-b11
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Fournisseur de la JVM :            Oracle Corporation
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: CATALINA_BASE :                    c:\xampp\tomcat
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: CATALINA_HOME :                    c:\xampp\tomcat
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Djava.util.logging.config.file=c:\xampp\tomcat\conf\logging.properties
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Djdk.tls.ephemeralDHKeySize=2048
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Dignore.endorsed.dirs=
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Dcatalina.base=c:\xampp\tomcat
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Dcatalina.home=c:\xampp\tomcat
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande : -Djava.io.tmpdir=c:\xampp\tomcat\temp
+mars 27, 2021 7:28:17 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFOS: La librairie Apache Tomcat Native basée sur APR qui permet des performances optimales dans les environnements de production n'a pas été trouvée sur le java.library.path : [C:\Program Files (x86)\Java\jre1.8.0_221\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Brackets\command;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Gpg4win\..\GnuPG\bin;C:\Ruby30-x64\bin;C:\Users\Ludovic Perret\AppData\Local\Microsoft\WindowsApps;C:\Users\Ludovic Perret\AppData\Local\GitHubDesktop\bin;C:\texlive\2018\bin\win32;C:\Users\Ludovic Perret\AppData\Local\Microsoft\WindowsApps;C:\Users\Ludovic Perret\AppData\Local\atom\bin;.]
+mars 27, 2021 7:28:17 PM org.apache.coyote.AbstractProtocol init
+INFOS: Initialisation du gestionnaire de protocole ["http-bio-8080"]
+mars 27, 2021 7:28:17 PM org.apache.coyote.AbstractProtocol init
+GRAVE: Failed to initialize end point associated with ProtocolHandler ["http-bio-8080"]
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:414)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:750)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:467)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:1030)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:826)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:663)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:686)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:244)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:401)
+	... 17 more
+
+mars 27, 2021 7:28:17 PM org.apache.catalina.core.StandardService initInternal
+GRAVE: Failed to initialize connector [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: L'initialisation du gestionnaire de protocole a échoué
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:1032)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:826)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:663)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:686)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:244)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:414)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:750)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:467)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:1030)
+	... 13 more
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:401)
+	... 17 more
+
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.Catalina load
+INFOS: Initialization processed in 449 ms
+mars 27, 2021 7:28:17 PM org.apache.catalina.core.StandardService startInternal
+INFOS: Démarrage du service [Catalina]
+mars 27, 2021 7:28:17 PM org.apache.catalina.core.StandardEngine startInternal
+INFOS: Starting Servlet Engine: Apache Tomcat/7.0.108
+mars 27, 2021 7:28:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\docs]
+mars 27, 2021 7:28:18 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+AVERTISSEMENT: La création de l'instance de SecureRandom pour le générateur d'id de session en utilisant [SHA1PRNG] a pris [266] millisecondes
+mars 27, 2021 7:28:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\docs] de l'application web s'est terminé en [505] ms
+mars 27, 2021 7:28:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\examples]
+mars 27, 2021 7:28:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\examples] de l'application web s'est terminé en [254] ms
+mars 27, 2021 7:28:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\host-manager]
+mars 27, 2021 7:28:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\host-manager] de l'application web s'est terminé en [73] ms
+mars 27, 2021 7:28:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\manager]
+mars 27, 2021 7:28:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\manager] de l'application web s'est terminé en [56] ms
+mars 27, 2021 7:28:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [C:\xampp\tomcat\webapps\ROOT]
+mars 27, 2021 7:28:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [C:\xampp\tomcat\webapps\ROOT] de l'application web s'est terminé en [37] ms
+mars 27, 2021 7:28:18 PM org.apache.catalina.startup.Catalina start
+INFOS: Server startup in 958 ms
+mars 27, 2021 7:28:18 PM org.apache.catalina.core.StandardServer await
+GRAVE: StandardServer.await: create[localhost:8005]: 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:428)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:800)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:746)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:284)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:415)
+
+mars 27, 2021 7:28:18 PM org.apache.coyote.AbstractProtocol pause
+INFOS: Le gestionnaire de protocole ["http-bio-8080"] est mis en pause
+mars 27, 2021 7:28:18 PM org.apache.catalina.core.StandardService stopInternal
+INFOS: Arrêt du service [Catalina]
+mars 27, 2021 7:28:18 PM org.apache.coyote.AbstractProtocol stop
+INFOS: Arrêt du gestionnaire de protocole ["http-bio-8080"]
+mars 27, 2021 7:28:18 PM org.apache.coyote.AbstractProtocol destroy
+INFOS: Destruction du gestionnaire de protocole ["http-bio-8080"]
+mars 27, 2021 7:46:03 PM org.apache.catalina.core.StandardServer await
+INFOS: Une commande d'arrêt valide a été reçue sur le port d'arrêt, arrêt de l'instance du serveur
+mars 27, 2021 7:46:03 PM org.apache.coyote.AbstractProtocol pause
+INFOS: Le gestionnaire de protocole ["http-bio-8080"] est mis en pause
+mars 27, 2021 7:46:03 PM org.apache.catalina.core.StandardService stopInternal
+INFOS: Arrêt du service [Catalina]
+mars 27, 2021 7:46:03 PM org.apache.coyote.AbstractProtocol stop
+INFOS: Arrêt du gestionnaire de protocole ["http-bio-8080"]
+mars 27, 2021 7:46:03 PM org.apache.coyote.AbstractProtocol destroy
+INFOS: Destruction du gestionnaire de protocole ["http-bio-8080"]

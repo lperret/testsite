@@ -1,0 +1,36 @@
+mars 27, 2021 7:28:08 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextInitialized()
+mars 27, 2021 7:28:08 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextInitialized()
+mars 27, 2021 7:28:08 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@b56246')
+mars 27, 2021 7:28:08 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@f41fd')
+mars 27, 2021 7:28:17 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextInitialized()
+mars 27, 2021 7:28:17 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextInitialized()
+mars 27, 2021 7:28:17 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@196f9da')
+mars 27, 2021 7:28:17 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@41f49f')
+mars 27, 2021 7:28:17 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextDestroyed()
+mars 27, 2021 7:28:17 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextDestroyed()
+mars 27, 2021 7:28:18 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextInitialized()
+mars 27, 2021 7:28:18 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextInitialized()
+mars 27, 2021 7:28:18 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: attributeAdded('StockTicker', 'async.Stockticker@196f9da')
+mars 27, 2021 7:28:18 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@41f49f')
+mars 27, 2021 7:28:18 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextDestroyed()
+mars 27, 2021 7:28:18 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextDestroyed()
+mars 27, 2021 7:46:03 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextDestroyed()
+mars 27, 2021 7:46:03 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextDestroyed()
